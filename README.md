@@ -1,3 +1,21 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blurfx/blurfx/master/profile.png" width="500px" alt="profile image">
-</p>
+```json
+{
+  "name": "Changhui Lee",
+  "work": null,
+  "pgp": "3FFB 5BB3 085A 709F",
+  "stacks": {
+    "often-use": [
+      "JavaScript", "TypeScript", "Python",
+      "React.js", "Next.js", "FastAPI", "Django"
+    ],
+    "learning": [
+      "Kotlin", "Golang"
+    ]
+  },
+  "links": {
+    "blog": "https://xo.dev",
+    "instagram": "https://instagram.com/blureffect",
+    "unsplash": "https://unsplash.com/changhui"
+  }
+}
+```
