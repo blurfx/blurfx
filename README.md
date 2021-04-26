@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Changhui Lee",
-  "work": null,
+  "work": "Front-end engineer at Devsisters",
   "pgp": "3FFB 5BB3 085A 709F",
   "stacks": {
     "often-use": [
