@@ -9,7 +9,7 @@
       "React.js", "Next.js", "FastAPI", "Django"
     ],
     "learning": [
-      "Rust", "Kotlin", "Golang"
+      "ReScript", "Rust", "Kotlin", "Golang"
     ]
   },
   "links": {
