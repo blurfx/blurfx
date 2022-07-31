@@ -3,7 +3,7 @@
 ```json
 {
   "name": "Changhui Lee",
-  "work": "Software engineer at Devsisters",
+  "work": "available for hire — iam[at]xo.dev",
   "pgp": "3FFB 5BB3 085A 709F",
   "blog": "https://xo.dev"
   "dev": {
