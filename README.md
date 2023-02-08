@@ -10,7 +10,7 @@
     "familiar": [
       "Golang",
       "JavaScript", "TypeScript", "Python",
-      "React.js", "Next.js", "FastAPI", "Django"
+      "React", "Gatsby" "Next.js", "FastAPI", "Django"
     ],
     "learning": ["Rust"]
   }
