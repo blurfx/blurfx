@@ -6,13 +6,9 @@
   "_": "Golang enthusiast",
   "pgp": "3FFB 5BB3 085A 709F",
   "blog": "https://xo.dev"
-  "dev": {
-    "familiar": [
-      "Golang",
-      "JavaScript", "TypeScript", "Python",
-      "React", "Gatsby" "Next.js", "FastAPI", "Django"
-    ],
-    "learning": ["Rust"]
-  }
+  "dev": [
+    "Golang", "JavaScript", "TypeScript", 
+    "React", "Gatsby", "Next.js"
+  ]
 }
 ```
